@@ -2,7 +2,6 @@
 			box-sizing: border-box;
 		}
 
-
 		body {
 			font-family: Arial;
 			margin: 0;
@@ -52,7 +51,7 @@
 	
 		.main {
 			flex: 70%;
-			background-color: white;
+			background-color: rgb(217, 243, 233);
 			padding: 20px;
 		}
 
@@ -67,7 +66,7 @@
 		.footer {
 			padding: 20px;
 			text-align: center;
-			background: #ddd;
+			background: #455e64;
 		}
 
 	
@@ -77,3 +76,14 @@
 				flex-direction: column;
 			}
 		}
+
+  .rside {
+              	float: right;
+               text-align: center;
+               width: 20%;
+               min-height: 1366px;
+               background-color:#c1cdcd;
+               padding: 20px;
+               font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            
+              }    
