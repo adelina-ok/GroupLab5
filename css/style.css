@@ -91,3 +91,16 @@ img {
   clear: both;
   display: table;
 }
+
+table,th,td {
+             text-align:center;
+              padding:5px;
+		          border:1px solid black
+       }
+
+table.center{
+    margin-left:auto; 
+    margin-right:auto;
+    color: white;
+    background-color:goldenrod;
+       }
